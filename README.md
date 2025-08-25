@@ -1,2 +1,2 @@
-# Capstone-Project-on-Data-Analytics
-This project is to showcase data analysis of sales data from a retail company to derive insights and create impactful visualizations using SQL, Python, and Google Looker Studio.
+# Online Music Store-Data-Analytics
+A detailed data analytics solution for a digital music store, applying SQL for data manipulation and Power BI for visualization to reveal patterns in customer behavior, music selection, and sales trends.
